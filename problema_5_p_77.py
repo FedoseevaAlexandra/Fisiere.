@@ -1,7 +1,7 @@
 '''Într-un fişier sunt înscrise caractere arbitrare. Elaboraţi un program
 care afişează pe ecran numărul vocalelor din fişier.
 '''
-a=open('C:/Users/moonb/OneDrive/Desktop/file.txt', 'r')
+a=open('file.txt', 'r')
 b=a.read()
 c=[]
 d=0
