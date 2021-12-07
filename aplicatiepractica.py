@@ -1,4 +1,4 @@
-a=open('C:/Users/moonb/Downloads/Kieta hatsukoi/Lista clasei 11D.txt', 'r')
+a=open('Lista clasei 11D.txt', 'r')
 ln=list(a)
 a.close()
 media1=0
