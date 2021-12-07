@@ -5,7 +5,6 @@ media1=0
 media2=0
 nr1=0
 nr2=0
-z=''
 with open ('C:/Users/moonb/OneDrive/Desktop/Lista_clasei_11D_grupa1.txt','w') as f:
     d=['Nume','       ','Prenume','  ','Nota','Grupa\n']
     d='\t'.join(d)
